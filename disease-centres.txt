@@ -1,0 +1,8 @@
+Inverness 83 460 130 false Scotland 47790;24.3
+Edinburgh 947 560 320 true Scotland 530680;263
+Belfast 21 300 440 true Ireland 352390;133
+Newcastle 12 640 430 false England 320605;115
+Hull 087 720 560 false England 275401;71.5
+Bangor 4098 480 630 false Wales 16990;6.5
+Cardiff 1 510 790 true Wales 383919;141
+London 43 700 800 true England 9089736;1572

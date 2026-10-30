@@ -1,0 +1,13 @@
+Bacteria,Inverness,1,false
+Phage,87,947,0.18
+Bacteria,21,43,false
+Phage,21,Newcastle,0.27
+Virus,4098,Hull,0.45
+Virus,83,43,0.20
+Phage,Bangor,London,0.21
+Bacteria,1,4098,true
+Virus,Hull,83,0.7
+Bacteria,12,87,true
+Phage,947,087,0.6
+Bacteria,4098,Edinburgh,false
+Virus,12,4098,0.26
